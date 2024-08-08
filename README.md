@@ -15,7 +15,7 @@ A Cola Pra Web é seu parceiro ideal para soluções digitais e desenvolvimento 
 ### Desenvolvimento de Sites
 - **Sites em Next.js**: Sites rápidos, responsivos e otimizados para SEO, construídos com as tecnologias mais recentes.
 - **Soluções de E-commerce**: Lojas online personalizadas, projetadas para maximizar vendas e a experiência do usuário.
-- **Landing Pages**: Páginas de alta conversão que capturam leads e fazem seu negócio crescer.
+- **Landing Pages**: Páginas de alta conversão que capturam leads e fazem seu negócio decolar.
 
 ### Serviços de SEO 📈
 - **Otimização de Palavras-Chave**: Estratégias direcionadas para aumentar sua visibilidade nos motores de busca.
