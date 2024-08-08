@@ -8,14 +8,14 @@
 
 ## Quem Somos
 
-A Cola Pra Web é seu parceiro ideal para soluções digitais e desenvolvimento de sites de ponta. Somos especialistas na criação de sites de alta performance utilizando Next.js, adaptados para atender às necessidades únicas de empresas de diversos setores. Nossa expertise se estende a plataformas de e-commerce, páginas de captura dinâmicas e estratégias robustas de SEO que aumentam o tráfego e as conversões.
+A Cola Pra Web é seu parceiro ideal para soluções digitais e desenvolvimento de sites de ponta. Somos especialistas na criação de sites de alta performance utilizando Next.js, adaptados para atender às necessidades únicas de empresas de diversos setores. Nossa expertise se estende a plataformas de e-commerce, Landing Pages dinâmicas e estratégias robustas de SEO que aumentam o tráfego e as conversões.
 
 ## O Que Oferecemos 💼
 
 ### Desenvolvimento de Sites
 - **Sites em Next.js**: Sites rápidos, responsivos e otimizados para SEO, construídos com as tecnologias mais recentes.
 - **Soluções de E-commerce**: Lojas online personalizadas, projetadas para maximizar vendas e a experiência do usuário.
-- **Páginas de Captura**: Páginas de alta conversão que capturam leads e fazem seu negócio crescer.
+- **Landing Pages**: Páginas de alta conversão que capturam leads e fazem seu negócio crescer.
 
 ### Serviços de SEO 📈
 - **Otimização de Palavras-Chave**: Estratégias direcionadas para aumentar sua visibilidade nos motores de busca.
